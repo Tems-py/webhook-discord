@@ -9,3 +9,5 @@ Webhook tool for discord, made in python.
 pip install discord_webhook 
 pip install PySimpleGUI
 lunch main.py
+# Issues
+Please report every issue. It will help me making this tool better 😎
