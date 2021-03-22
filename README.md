@@ -1,5 +1,11 @@
-# webhook-discord
-Webhook tool for discord, made with python.
+# Webhook discord tool
+Webhook tool for discord, made in python.
 
 
 ![](preview.png)
+
+
+# Installation
+pip install discord_webhook 
+pip install PySimpleGUI
+lunch main.py
