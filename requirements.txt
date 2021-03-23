@@ -1,2 +1,2 @@
-PySimpleGUI
-discord_webhook
+PySimpleGUI==4.38.0
+discord-webhook==0.12.0
