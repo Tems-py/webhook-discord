@@ -5,10 +5,7 @@ layout = [  [sg.Text("Insert webhook url")],
             [sg.Input()],
             [sg.Button('Ok'), sg.Button('Quit')]]
 
-
-
 window = sg.Window('Discord Webhook Tool by Tems', layout)     
-
 
 event, url = window.read()
 window.close()
